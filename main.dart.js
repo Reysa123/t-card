@@ -32684,7 +32684,7 @@ return A.q(A.eH(B.n.gU(b).w),$async$ea)
 case 47:case 44:c.b=a1
 case 4:p=$.PK()
 s=48
-return A.q(p.kr("assets/footer.png"),$async$ea)
+return A.q(p.kr("assets/footer2.png"),$async$ea)
 case 48:o=a1
 s=49
 return A.q(p.kr("assets/kop.png"),$async$ea)
